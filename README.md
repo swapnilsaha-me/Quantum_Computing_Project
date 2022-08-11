@@ -1,5 +1,5 @@
 # Quantum_Computing_Project
-This repository will contain the source code for our quantum computing project.
+This repository will contain the source code, pptx, presentation video and project report for our quantum computing project.
 
 
 ## Overview

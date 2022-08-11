@@ -1,6 +1,14 @@
 # Quantum_Computing_Project
 This repository will contain the source code, pptx, presentation video and project report for our quantum computing project.
 
+Report - https://github.com/swapnilsaha-me/Quantum_Computing_Project/blob/main/Quantum_Computing_Project_Report.pdf
+
+Slide - https://github.com/swapnilsaha-me/Quantum_Computing_Project/blob/main/Eavesdropping_Detection.pptx
+
+Code - https://github.com/swapnilsaha-me/Quantum_Computing_Project/blob/main/Eavesdropping_Detection_Quantum_Computing_Project.ipynb
+
+Video - https://baylor.box.com/s/r1gh0c928kq8kjnea74jdlws43k1nbtp
+
 
 ## Overview
 We aim to detect eavesdropping in a quantum communication channel using

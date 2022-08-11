@@ -12,3 +12,8 @@ A sends a qubit to B, we want to make sure that C cannot intercept the state of
 the qubit. We do this by making use of a fundamental property of qubits which
 is- The state of a qubit changes, if someone measures that qubit. We detect this
 change in states, and thus make the channel secure for message transmission.
+
+<figure>
+    <p align="center"><img alt="An example of eavesdropping" align="middle" width="350" src="http://gva.noekeon.org/QCandSKD/Figures/AliceBobEve.png"/></p>
+    <figcaption><p align="center">Figure: An example</p></figcaption>
+</figure>

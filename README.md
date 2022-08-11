@@ -16,4 +16,5 @@ change in states, and thus make the channel secure for message transmission.
 <figure>
     <p align="center"><img alt="An example of eavesdropping" align="middle" width="350" src="http://gva.noekeon.org/QCandSKD/Figures/AliceBobEve.png"/></p>
     <figcaption><p align="center">Figure: An example</p></figcaption>
+    <figcaption><p align="center">Image Source: http://gva.noekeon.org/QCandSKD/QCandSKD-introduction.html</p></figcaption>
 </figure>
